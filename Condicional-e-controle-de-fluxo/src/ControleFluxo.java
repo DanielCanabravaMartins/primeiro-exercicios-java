@@ -1,5 +1,3 @@
-import javax.swing.text.StyledEditorKit.BoldAction;
-import javax.swing.text.html.HTMLDocument.BlockElement;
 
 public class ControleFluxo {
     public static void main(String[] args) {
